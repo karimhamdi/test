@@ -1,0 +1,4 @@
+## One liners
+
+## Riddles
+![[Riddles]]
