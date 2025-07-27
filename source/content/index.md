@@ -5,4 +5,4 @@
 # Pregame
 ![[Pregame]]
 # Schedule
-![[Schedule]](stuff/Schedule.md)
+![[Schedule]]

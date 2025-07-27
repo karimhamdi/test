@@ -1,6 +1,5 @@
 
-## Gantt chart
-Abbreviations
+#### Gantt chart Abbreviations
 
 |         |                                                               |
 | ------- | ------------------------------------------------------------- |
