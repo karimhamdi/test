@@ -12,7 +12,7 @@ gantt
 dateFormat  YYYY-MM-DD
 
 section Event
-    Event                       :event, 2026-05-21, 3d
+    Event                       :milestone, crit, event, 2026-05-21, 3d
     Signup                      :event-signup, after eg-tease, 2025-09-30
 	Register for orient. days   :event_orient, after today, until semester-start
    	On campus recruiting        :event-campus, after semester-start, 2025-09-30
