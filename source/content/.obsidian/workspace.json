@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "6e989262f41cbdad",
   "lastOpenFiles": [
-    "stuff/Schedule.md",
-    "README.md",
-    "stuff/Pregame/Riddles.md",
     "stuff/Theme.md",
+    "stuff/Schedule.md",
     "stuff/Pregame/Pregame.md",
+    "stuff/Pregame/Riddles.md",
     "stuff/Pregame/Riddles/Riddle 1.md",
+    "index.md",
+    "README.md",
     "stuff/Pregame/Riddles",
     "stuff/Pregame",
     "stuff",

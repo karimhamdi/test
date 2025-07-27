@@ -1,8 +1,8 @@
 # Main event 2025
 
 # Theme
-![Theme](stuff/Theme.md)
+![[Theme]]
 # Pregame
-![Pregame](stuff/Pregame/Pregame.md)
+![[Pregame]]
 # Schedule
-![Schedule](stuff/Schedule.md)
+![[Schedule]]
