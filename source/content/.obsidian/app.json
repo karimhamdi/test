@@ -1,1 +1,13 @@
-{}
+{
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./attachments",
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}

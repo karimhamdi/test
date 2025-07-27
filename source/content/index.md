@@ -1,9 +1,8 @@
----
-title: My GitHub Pages Notebook!
----
+# Main event 2025
 
-Hello world!
-
-Mein kleiner test
-
-Write some words here!
+# Theme
+![Theme](stuff/Theme.md)
+# Pregame
+![Pregame](stuff/Pregame/Pregame.md)
+# Schedule
+![Schedule](stuff/Schedule.md)
