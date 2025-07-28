@@ -22,8 +22,7 @@ jobs:
 
       - name: Run export
         run: |
-          mkdir -p exported
-          obsidian-export . exported --frontmatter=auto --embed-images
+          obsidian-export README.md . --frontmatter=auto --embed-images
 
       - name: Commit exported markdown
         run: |
